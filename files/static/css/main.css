@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+.small {
+    font-size: smaller;
+}
+
+.smaller {
+    font-size: small;
+}
+
+.smallest {
+    font-size: x-small;
+}
+
+.tiny {
+    font-size: xx-small;
+}
+
+.wide {
+    font-size: xx-large;
+}
+
+.the-net {
+    font-family: serif;
+    color: blue;
+    font-style: italic;
+}
